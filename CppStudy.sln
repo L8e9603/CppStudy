@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCpp_Chapter1_14", "TBCpp_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{1A064EE6-3575-4163-A37B-BB8A59CDE448}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeUp1012", "CodeUp1012\CodeUp1012.vcxproj", "{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{1A064EE6-3575-4163-A37B-BB8A59CDE448}.Release|x64.Build.0 = Release|x64
 		{1A064EE6-3575-4163-A37B-BB8A59CDE448}.Release|x86.ActiveCfg = Release|Win32
 		{1A064EE6-3575-4163-A37B-BB8A59CDE448}.Release|x86.Build.0 = Release|Win32
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Debug|x64.ActiveCfg = Debug|x64
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Debug|x64.Build.0 = Debug|x64
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Debug|x86.Build.0 = Debug|Win32
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Release|x64.ActiveCfg = Release|x64
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Release|x64.Build.0 = Release|x64
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Release|x86.ActiveCfg = Release|Win32
+		{3FBF7772-DBA4-4D51-B1EE-D8B8EB904155}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
