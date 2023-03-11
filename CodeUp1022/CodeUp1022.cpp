@@ -5,6 +5,9 @@
 
 int main() {
 	char data[2001];
-	fgets(data, 2000, stdin);
+	
+	fgets(data, 2000, stdin); // fgets 메서드는 띄어쓰기가 있는 문자열도 받을 수 있는 메서드
 	printf("%s", data);
+	
+	return 0;
 }
