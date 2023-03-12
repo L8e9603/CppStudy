@@ -12,6 +12,6 @@ int main() {
     num2 = num1.substr(0, pos);
     num3 = num1.substr(pos+1, num1.length());
     cout << num2 << endl << num3 << endl;
-
+    
     return 0;
 }
